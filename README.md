@@ -1,0 +1,1 @@
+-These are the codes and applications i developed while learning initially
