@@ -1,0 +1,9 @@
+ASUS TUF A15
+
+processor - AMD Ryzen 7 4800H
+motherboard - AMD
+RAM - 16GB
+Cache memory - 12MB
+Graphic card - Geforce RTX 3050
+8 cores and 16 threads
+CPU speed - 2.9GHz to 4.2GHz
